@@ -5,6 +5,8 @@
 !.config
 !.config/nvim
 !.config/nvim/**
+!.config/helix
+!.config/helix/**
 
 !.ssh
 !.ssh/config
