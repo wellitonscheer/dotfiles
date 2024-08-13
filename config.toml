@@ -1,0 +1,18 @@
+theme = "gruvbox_dark_hard"
+
+[editor]
+mouse = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[keys.normal]
+d = "delete_selection_noyank"
+D = "delete_selection"
+
+[editor.file-picker]
+hidden = false
+git-ignore = false
+follow-symlinks = false	
